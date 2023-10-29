@@ -9,8 +9,8 @@ random_number = random.randint(1, 10)
 print(random_number)
 ```
 
-- [] test 1
-- [] test 2
-- [] test 3
+- [x] test
+- [ ] test2
+- [x] test3
 
 adding H1 header
